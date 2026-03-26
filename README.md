@@ -1,3 +1,14 @@
+# Crowd-Free Canteen
+
+## Live (GitHub Pages)
+
+After the `deploy` workflow runs, the site is available at:
+
+- https://nayan224758.github.io/PreOrderCanteen/
+
+## Local development
+
+...
 # 🍽️ Crowd-Free Canteen System
 
 A full-stack web application that allows college students to pre-book food orders from the canteen to reduce crowding. Built with **React (Vite)**, **Tailwind CSS**, and **Supabase** (PostgreSQL + Auth).
